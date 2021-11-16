@@ -1,14 +1,14 @@
-### 😄 HOLA A TODOS! 👋
+### 😄 HELLO EVERYONE! 👋
 
-<!--
-**16danielvm/16danielvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<! -
+** 16danielvm / 16danielvm ** is a ✨ _special_ ✨ repository because your `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
-- 🔭 Apasionado por la **Ciencia de datos** y **Aprendizaje automatico** en el lenguaje de programacion **Python**.
-- 🌱 Soy estudiante de  **Ingeniería Electrónica y Telecomunicaciones**: *Facultad de Ingeniería Electrónica y Telecomunicaciones - Universidad del Cauca*. 
-- 👯 Estoy buscando colaborar en **Programación y desarrollo**.
-- 💬 Preguntame acerca de: **Python**. 
-- 😄 *Hobbies: Futbol, VideoJuegos*.
-- ⚡ **Intereses**: Ciencia de datos, Aprendizaje automatico, Análisis de datos, Big data, Tecnología.
+Here are some ideas to get started:
+->
+- 🔭 Passionate about **Data Science** and **Machine Learning** in the programming language **Python**.
+- 🌱 I am a student of **Electronic and Telecommunications Engineering**: *Faculty of Electronic Engineering and Telecommunications - Universidad del Cauca*.
+- 👯 I am looking to collaborate in **Programming and development**.
+- 💬 Ask me about: **Python, Data Science or Machine Learning**.
+- 😄 *Hobbies: Soccer, Video Games*.
+- ⚡ **Interests**: Data science, Machine learning, Data analysis, Big data, Technology. 
 
