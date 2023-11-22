@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🎓 **Electronic and Telecommunications Engineer**: *Faculty of Electronic Engineering and Telecommunications - Universidad del Cauca*.
 - 👯 I am looking to collaborate in **Programming and development**.
 - 💬 Ask me about: **Python, Data Science or Machine Learning**.
-- 😄 *Hobbies: Coding, soccer.
+- 😄 *Hobbies: Coding💻, soccer⚽.
 - ⚡ **Interests**: Data science, Machine learning, Data analysis, Big data, Technology. 
 
