@@ -19,5 +19,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 -->
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ <a href="https://twitter.com/16danielvm">
+    <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+  </a>
 
