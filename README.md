@@ -19,7 +19,4 @@ Here are some ideas to get you started:
   </a>
 </p>
 -->
- <a href="https://twitter.com/16danielvm">
-    <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
-  </a>
 
