@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 😄 *Hobbies: Coding💻, soccer⚽.
 - ⚡ **Interests**: Data science, Machine learning, Data analysis, Big data, Technology. 
 
-<p align="center">
+<!--<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
+-->
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
