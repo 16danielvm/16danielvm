@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 👯 I am looking to collaborate in **Programming and development**.
 - 💬 Ask me about: **Python, Data Science or Machine Learning**.
 - 😄 *Hobbies: Coding💻, soccer⚽.
-- ⚡ **Interests**: Data science, Machine learning, Data analysis, Big data, Technology. 
+- ⚡ **Interests**: Data science, Machine learning, Data analysis, Big data, Technology.
+- 👇👇👇 YOU'RE FREE TO SEE THE PROJECTS BELOW 👇👇👇
 
 <!--<p align="center">
   <a href="https://skillicons.dev">
