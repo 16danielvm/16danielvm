@@ -5,9 +5,9 @@ Here are some ideas to get you started:
 -->
 ### 😄 HELLO EVERYONE! 👋
 
-- 🔭 **Data Scientist**, enthusiast about **Machine Learning** in the programming language **Python**.
-- 📚 I'm student of **Master of Science in Information Processing**: *Universidad Autónoma de Zacatecas*.
-- 🎓 **Electronic and Telecommunications Engineer**: *Faculty of Electronic Engineering and Telecommunications - Universidad del Cauca*.
+- 🔭 **Data Scientist**, enthusiast about **Machine Learning**.
+- 📚 **MSc. in Information Processing**: *Universidad Autónoma de Zacatecas*.
+- 🎓 **Electronic and Telecommunications Engineer**: *Universidad del Cauca*.
 - 👯 I am looking to collaborate in **Programming and development**.
 - 💬 Ask me about: **Python, Data Science or Machine Learning**.
 - 😄 *Hobbies: Coding💻, soccer⚽.
